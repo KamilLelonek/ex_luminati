@@ -21,6 +21,7 @@ defmodule ExLuminati.Mixfile do
 
   defp deps do
     [
+      {:httpoison, "~> 0.13.0"},
       {:ex_doc, "~> 0.14", only: :dev, runtime: false},
     ]
   end
