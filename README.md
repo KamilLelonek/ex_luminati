@@ -1,4 +1,5 @@
 # ex_luminati
+[![Build Status](https://travis-ci.org/KamilLelonek/ex_luminati.svg?branch=master)](https://travis-ci.org/KamilLelonek/ex_luminati)
 
 An Elixir client for https://luminati.io/.
 
